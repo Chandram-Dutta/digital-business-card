@@ -60,9 +60,11 @@ function About() {
     <div className="details">
       <h3>About</h3>
       <p>
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        I am a student and a developer. I am currently a freshman at the Vellore
+        Institute of Technology. I am an application developer with expertise in
+        Flutter & SwiftUI. I am also a web developer with knowledge of ReactJS,
+        Astro and Svelte. Sometimes I also play with hardware and embedded
+        programming.
       </p>
     </div>
   );
@@ -72,8 +74,8 @@ function Interests() {
     <div className="details">
       <h3>Interests</h3>
       <p>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Flutter, SwiftUI, ReactJS, Astro, Svelte, Cycling, Swimming, Guitar,
+        Coffee, Apple, Linux, Open Source, Hardware, Embedded Programming.
       </p>
     </div>
   );
